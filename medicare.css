@@ -1,0 +1,189 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.clearfix{
+	clear: both;
+	}
+#container{
+	background-color: lightblue;
+	margin: 0 auto;
+	width: 1180px;
+	height:2400px;
+	font-family: arial;
+	border-radius: 30px;
+}
+header{
+	background: url(healthcare2.jpg);
+	width: 1180px;
+    height: 400px;
+
+	}
+	#header1{
+		font-size: 20px;
+		font-style: italic;
+		color: lightblue;
+		float:left;
+        margin-left: 30px;
+
+
+	}
+	nav{
+		float:right;
+	}
+	nav ul{
+		list-style: none;
+	}
+	nav ul li{
+		float: left;
+		background: lightblue;
+		padding: 20px 20px;
+		font-size: 20px;
+		margin: 0 3px;
+		font-weight: bold;
+        transition: background 1s;
+		cursor: pointer;
+		
+	}
+	nav ul li:hover{
+		background: white;
+		color: lightblue;
+	}
+	main{
+		background-color: lightblue;
+		width: 1180px;
+		height: 1535px;
+	}
+	
+	
+	#centersection{
+		text-align: center;
+	}
+
+	#centersection1{
+		background: url(healthcare3.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+          cursor: pointer;
+
+	}
+	.art1:hover{
+		transform: scale(1.5);}
+
+
+	.art1{
+		float: left;
+		width: 295px;
+		margin: 30px 0px;
+
+
+
+	}
+
+
+	#centersection3{
+		background: url(hea.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+        cursor: pointer;
+          cursor: pointer;
+
+
+	}
+	#centersection5{
+		background: url(healthcare4.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+        cursor: pointer;
+
+	}
+	#centersection7{
+		background: url(healthcare5.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+          cursor: pointer;
+	}
+	#centersection11{
+		background: url(p1.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+          cursor: pointer;
+
+
+
+	}
+	#art2{
+		margin: 20px 0;
+	}
+	#centersection31{
+		background: url(p2.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+          cursor: pointer;
+
+
+	}
+#centersection51{
+	background: url(p3.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+          cursor: pointer;
+
+}
+#centersection71{
+	background: url(p4.jpg);
+		width: 250px;
+		height: 200px;
+        border-radius: 10px;
+          cursor: pointer;
+
+}
+
+
+#cs1{
+	background: url(pi3.jpg);
+		width: 600px;
+		height: 409px;
+        border-radius: 10px;
+
+
+}
+#cs11 h1{
+	font-weight: bold;
+}
+#cs21{
+	background: url(pi4.jpg);
+		width: 550px;
+		height: 402px;
+        border-radius: 30px;
+
+}
+.rat1{
+	float: left;
+}
+#pi{
+	background: url(w1.jpg);
+		width: 1150px;
+		height: 440px;
+        border-radius: 30px;
+        cursor: pointer;
+
+}
+.footarc{
+	float: left;
+	width: 200px;
+
+	margin: 0 20px;
+}
+
+
+
+
